@@ -1,0 +1,37 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\AlgoCraftV\AlgoCraftV\bin\Debug\AlgoCraftV.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\AlgoCraftV\AlgoCraftV\bin\Debug\AlgoCraftV.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\AlgoCraftV\AlgoCraftV\bin\Debug\AlgoCraftV.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\AlgoCraftV\AlgoCraftV\obj\Debug\AlgoCraftV.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\AlgoCraftV\AlgoCraftV\obj\Debug\AlgoCraftV.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\AlgoCraftV\AlgoCraftV\obj\Debug\AlgoCraftV.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\AlgoCraftV\AlgoCraftV\obj\Debug\AlgoCraftV.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\AlgoCraftV\AlgoCraftV\obj\Debug\AlgoCraftV.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\AlgoCraftV\AlgoCraftV\obj\Debug\AlgoCraftV.pdb
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\AlgoCraftV.exe.config
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.exe
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.pdb
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\AlgoCraftV.exe
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\AlgoCraftV.pdb
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.Form1.resources
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.Properties.Resources.resources
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.csproj.GenerateResource.Cache
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.Console.resources
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\MathNet.Numerics.dll
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\System.ValueTuple.dll
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\MathNet.Numerics.xml
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\AlgoCraftV.exe.config
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.exe
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.pdb
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\AlgoCraftV.exe
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\AlgoCraftV.pdb
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\MathNet.Numerics.dll
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\MathNet.Numerics.xml
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.Console.resources
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.Form1.resources
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.Properties.Resources.resources
+C:\Users\user\Desktop\AlgoCraftVe\New folder\AlgoCraftV - Copie\AlgoCraftV\obj\Debug\AlgoCraftV.csproj.GenerateResource.Cache

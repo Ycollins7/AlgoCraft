@@ -1,0 +1,9 @@
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\FormConsole\bin\Debug\FormConsole.exe.config
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\FormConsole\bin\Debug\FormConsole.exe
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\FormConsole\bin\Debug\FormConsole.pdb
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\FormConsole\obj\Debug\FormConsole.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\FormConsole\obj\Debug\FormConsole.Form1.resources
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\FormConsole\obj\Debug\FormConsole.Properties.Resources.resources
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\FormConsole\obj\Debug\FormConsole.csproj.GenerateResource.Cache
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\FormConsole\obj\Debug\FormConsole.exe
+C:\Users\rodri\Desktop\brad\algocraft\AlgoCraftV - Copie\FormConsole\obj\Debug\FormConsole.pdb
